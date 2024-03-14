@@ -26,8 +26,11 @@ This is a wallpapers app built using Flutter that fetches wallpapers from the Pe
 
 ## Screenshots
 
-![Screenshot](screenshots/Screenshot_1710372181.png)
-![Screenshot](screenshots/Screenshot_1710371253.png)
+<img src="screenshots/Screenshot_1710372181.png" alt="Screenshot" width="400">
+
+
+<img src="screenshots/Screenshot_1710371253.png" alt="Screenshot" width="400">
+
 
 ## Contributing
 
