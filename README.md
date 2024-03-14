@@ -25,8 +25,9 @@ This is a wallpapers app built using Flutter that fetches wallpapers from the Pe
 4. Run the app using `flutter run`.
 
 ## Screenshots
-[](screenshots/Screenshot_1710372181.png)
-[](screenshots/Screenshot_1710371253.png)
+
+[Screenshot](screenshots/Screenshot_1710372181.png)
+[Screenshot](screenshots/Screenshot_1710371253.png)
 
 ## Contributing
 
