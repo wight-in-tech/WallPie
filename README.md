@@ -1,4 +1,4 @@
-# wallpie
+# Wallpie
 
 ## Wallpapers App using Flutter and Pexels API
 
@@ -26,8 +26,8 @@ This is a wallpapers app built using Flutter that fetches wallpapers from the Pe
 
 ## Screenshots
 
-[Screenshot](screenshots/Screenshot_1710372181.png)
-[Screenshot](screenshots/Screenshot_1710371253.png)
+![Screenshot](screenshots/Screenshot_1710372181.png)
+![Screenshot](screenshots/Screenshot_1710371253.png)
 
 ## Contributing
 
