@@ -1,16 +1,37 @@
 # wallpie
 
-A new Flutter project.
+## Wallpapers App using Flutter and Pexels API
+
+This is a wallpapers app built using Flutter that fetches wallpapers from the Pexels API. The app allows users to browse through a collection of high-quality wallpapers and set them as their device wallpaper.
+
+## Features
+
+- Browse through a collection of wallpapers.
+- Search for wallpapers based on keywords.
+- Set wallpapers as device wallpaper.
+
+
+## Technologies Used
+
+- Flutter
+- Dart
+- Pexels API
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. Clone the repository.
+2. Install Flutter and Dart on your machine.
+3. Run `flutter pub get` to install dependencies.
+4. Run the app using `flutter run`.
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
+[](screenshots/Screenshot_1710372181.png)
+[](screenshots/Screenshot_1710371253.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Contributing
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Contributions are welcome! Please follow the [contribution guidelines](CONTRIBUTING.md).
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
